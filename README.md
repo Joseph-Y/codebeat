@@ -20,3 +20,6 @@ Joseph Yasmeh, MD
 ## Disclaimer
 
 For **educational purposes only**. Not intended to replace official ACLS guidance or real-time clinical judgment. Always defer to your institution’s protocols.
+
+## Privacy 
+CodeBeat does not collect, transmit, or store any personal or health data; all settings remain locally on the device, there are no analytics or tracking, and nothing is shared externally.
