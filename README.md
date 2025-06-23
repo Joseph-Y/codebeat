@@ -17,6 +17,10 @@
 
 Joseph Yasmeh, MD
 
+## Support 
+
+**Need Help?** Email me at [jyasmeh@gmail.com](mailto:jyasmeh@gmail.com?subject=CodeBeat%20Support).
+
 ## Disclaimer
 
 For **educational purposes only**. Not intended to replace official ACLS guidance or real-time clinical judgment. Always defer to your institution’s protocols.
